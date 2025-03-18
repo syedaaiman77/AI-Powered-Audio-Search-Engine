@@ -24,3 +24,8 @@ streamlit run app.py
 - View automatic transcription of the audio
 - Search for specific words in the transcription
 - Jump to a specific timestamp and audio will be played from there
+## Output
+![image](https://github.com/user-attachments/assets/0b8ac866-d6c7-4c53-927b-262af1f47820)
+![image](https://github.com/user-attachments/assets/5f1cc4d9-32c2-4d7e-9fb2-d1d558bc835a)
+
+
